@@ -1,2 +1,2 @@
-# psdts
-Power Spectral Density for Time Series
+# psdets
+Power Spectral Density Estimation for Time Series
